@@ -308,6 +308,6 @@ const AdminLogin = () => {
       </Box>
     </Box>
   );
-
+};
 
 export default AdminLogin;
