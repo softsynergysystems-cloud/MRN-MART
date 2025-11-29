@@ -129,6 +129,6 @@ const AdminLogin = () => {
       </Paper>
     </Box>
   );
-};
+
 
 export default AdminLogin;
