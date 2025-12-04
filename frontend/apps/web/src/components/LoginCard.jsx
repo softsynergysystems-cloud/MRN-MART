@@ -108,7 +108,7 @@ export default function LoginCard({
             display: "block",
             textAlign: "right",
             mb: 3,
-            color: "#22c55e",
+            color: "#c54e22ff",
             fontSize: "0.85rem",
             "&:hover": { color: "#16a34a" },
           }}
@@ -126,8 +126,8 @@ export default function LoginCard({
             textTransform: "none",
             fontSize: "1rem",
             fontWeight: "bold",
-            bgcolor: "#f97316",
-            "&:hover": { bgcolor: "#ea580c" },
+            bgcolor: "#168bf9ff",
+            "&:hover": { bgcolor: "#0c10eaff" },
           }}
         >
           Login
